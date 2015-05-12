@@ -81,10 +81,10 @@
     </dependency>
   </dependencies>
   <repositories>
-    <!-- staging repo for RC0 -->
+    <!-- staging repo for RC1 -->
     <repository>
       <id>Staging</id>
-      <url>https://repository.apache.org/content/repositories/orgapachehbase-1076/</url>
+      <url>https://repository.apache.org/content/repositories/orgapachehbase-1077/</url>
     </repository>
   </repositories>
 </project>
